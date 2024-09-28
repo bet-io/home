@@ -17,21 +17,21 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://jimsdeng.me/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "网址集（没有）",
+    "link": "https://example.com/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
+    "name": "今日热榜(powered by imsyy)",
     "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "站点监测(没有)",
+    "link": "https://example.com/"
   }
 ]
