@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.jimsdeng.me/"
+    "link": "https://blog.jimdeng.ltd/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://jimscloud.eu.org/"
+    "link": "https://alist.jimsdeng.eu.org/"
   },
   {
     "icon": "CompactDisc",
@@ -17,21 +17,11 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://jimsdeng.me/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集（没有）",
-    "link": "https://example.com/"
+    "link": "https://jimsdeng.ltd/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜(powered by imsyy)",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测(没有)",
-    "link": "https://example.com/"
   }
 ]
